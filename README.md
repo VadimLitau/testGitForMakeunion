@@ -4,7 +4,7 @@
 
 Представляет собой стартовую сборку React TS приложения на vite.
 
-![ViteProject](https://drive.google.com/file/d/1at3PP-YaDuxZtBPSVhex3Dzo8AVvJnaj/view?usp=drive_link)
+![ViteProject](https://imageup.ru/img170/4851305/screenshot-2024-06-26-112558.png?nc)
 
 ## Перед началом работы
 
