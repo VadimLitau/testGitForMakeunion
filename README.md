@@ -4,6 +4,8 @@
 
 Представляет собой стартовую сборку React TS приложения на vite.
 
+![ViteProject](https://drive.google.com/file/d/1at3PP-YaDuxZtBPSVhex3Dzo8AVvJnaj/view?usp=drive_link)
+
 ## Перед началом работы
 
 После клонирования репозитория, необходимо установить модули.
